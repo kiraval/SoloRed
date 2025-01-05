@@ -49,7 +49,7 @@ The following rules have changed: the player can only draw one card from the dec
     - Note: Playing to the canvas cannot make the game lose
 ## Starting the Game
 Run the program in your terminal with the following command:  
-[Game mode] [Number of Palettes] [Size of Hand]  
+java -jar RedSolo.jar [Game mode] [Number of Palettes] [Size of Hand]  
 **Game modes**: Basic, Advanced  
 **Number of Palettes**: Must be greater than 1  
 **Hand Size**: Number of cards in your hand during the game  
